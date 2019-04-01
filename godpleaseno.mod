@@ -1,8 +1,0 @@
-name="GOD PLEASE NO!"
-archive="mod/godpleaseno.zip"
-tags={
-	"sound"
-}
-picture="SteveCarell.jpg"
-remote_file_id="1478717726"
-supported_version="1.28.*.*"
