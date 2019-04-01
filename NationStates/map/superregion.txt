@@ -1,0 +1,8 @@
+# A region can only belong to one super region.
+
+world_superregion = {
+	land_region
+}
+ocean_superregion = {
+	sea_region
+}

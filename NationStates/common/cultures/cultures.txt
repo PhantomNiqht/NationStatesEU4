@@ -1,0 +1,21 @@
+kancarian_culture_group = {
+	
+	male_names = {
+		John Jim Charlie
+		Augustus
+	}
+	female_names = {
+		Nikki
+	}
+	dynasty_names = {
+		
+	"von Geon"
+	}
+
+	kancovo = {
+		primary = KAN
+	}
+	#kederian = {
+		#primary = KED
+	#}
+}

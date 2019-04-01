@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "TESTING"
+	desc = "TESTING"
+	date = 1444.11.11
+	
+	center = 1
+	default = yes
+	
+	country = KAN
+}

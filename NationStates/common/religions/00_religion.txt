@@ -1,0 +1,44 @@
+christian = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	
+	center_of_religion = 1 # Rome
+
+	# Flag emblem values - Used for Dynamic Setup of Random Nations.
+	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
+	# Can be overridden per religion.
+	flags_with_emblem_percentage = 33 # default == 0
+	flag_emblem_index_range = { 1 57 }
+
+	
+	
+	catholic = {
+		color = { 204 204 0 }
+		icon = 1
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = catholic
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }		
+	}
+	
+	crusade_name = CRUSADE
+}

@@ -1,0 +1,23 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+########################################
+# EUROPE                               #
+########################################
+
+land_region = {
+	areas = {
+		next_area
+		kancovo_area
+		kedero_area
+	}
+}
+
+sea_region = {
+	areas = {
+		ocean_area
+	}
+}

@@ -1,0 +1,28 @@
+#1 - Kanco
+
+owner = KAN
+controller = KAN
+culture = kancovo
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 6
+capital = "Kancara"
+is_city = yes
+add_core = KAN
+fort_15th = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 26
+center_of_trade = 2
+
+add_permanent_province_modifier = {
+	name = thames_estuary_modifier
+	duration = -1
+}
+
+1453.1.1 = { unrest = 5 } # Start of the War of the Roses
