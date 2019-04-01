@@ -1,10 +1,10 @@
 ﻿l_english:
- kancovo_area_name:0 "Kancovo"
- kancovo_area_adj: 0 "Kancovian"
- kedero_area_name:0 "Kedero"
- kedero_area_adj:0 "Kederian"
- next_area_name:0 "Next"
- next_area_adj:0 "Nextian"
- ocean_area_name:0 "Ocean"
- ocean_area_adj:0 "Oceanic"
+ kancovo_area_name:0"Kancovo"
+ kancovo_area_adj: 0"Kancovian"
+ kedero_area_name:0"Kedero"
+ kedero_area_adj:0"Kederian"
+ next_area_name:0"Next"
+ next_area_adj:0"Nextian"
+ ocean_area_name:0"Ocean"
+ ocean_area_adj:0"Oceanic"
  

@@ -522,10 +522,6 @@ exploration_ideas = {
 		}
 		modifier = {
 			factor = 0.1
-			NOT = { has_institution = renaissance }
-		}
-		modifier = {
-			factor = 0.1
 			NOT = { technology_group = high_american }
 		}
 		modifier = {
@@ -739,9 +735,6 @@ expansion_ideas = {
 				has_idea_group = exploration_ideas
 				is_colonial_nation = yes
 			}
-		}
-		modifier = {
-			factor = 5
 		}
 		modifier = {
 			factor = 10
